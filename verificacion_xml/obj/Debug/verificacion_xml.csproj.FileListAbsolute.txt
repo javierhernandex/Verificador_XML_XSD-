@@ -1,0 +1,9 @@
+c:\users\tresd\documents\visual studio 2015\Projects\verificacion_xml\verificacion_xml\bin\Debug\verificacion_xml.exe.config
+c:\users\tresd\documents\visual studio 2015\Projects\verificacion_xml\verificacion_xml\bin\Debug\verificacion_xml.exe
+c:\users\tresd\documents\visual studio 2015\Projects\verificacion_xml\verificacion_xml\bin\Debug\verificacion_xml.pdb
+c:\users\tresd\documents\visual studio 2015\Projects\verificacion_xml\verificacion_xml\obj\Debug\verificacion_xml.csprojResolveAssemblyReference.cache
+c:\users\tresd\documents\visual studio 2015\Projects\verificacion_xml\verificacion_xml\obj\Debug\verificacion_xml.Form1.resources
+c:\users\tresd\documents\visual studio 2015\Projects\verificacion_xml\verificacion_xml\obj\Debug\verificacion_xml.Properties.Resources.resources
+c:\users\tresd\documents\visual studio 2015\Projects\verificacion_xml\verificacion_xml\obj\Debug\verificacion_xml.csproj.GenerateResource.Cache
+c:\users\tresd\documents\visual studio 2015\Projects\verificacion_xml\verificacion_xml\obj\Debug\verificacion_xml.exe
+c:\users\tresd\documents\visual studio 2015\Projects\verificacion_xml\verificacion_xml\obj\Debug\verificacion_xml.pdb
